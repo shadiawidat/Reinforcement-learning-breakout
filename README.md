@@ -14,8 +14,8 @@ Training was conducted in **Google Colab** using a **T4 GPU**, with model checkp
 ## 🎯 Objectives
 
 - Developed a reinforcement learning agent capable of playing Breakout autonomously.
-- Implemented and train a **Deep Q-Network (DQN)** using image-based state inputs.
-- Visualizeed training performance over time.
+- Implemented and trained a **Deep Q-Network (DQN)** using image-based state inputs.
+- Visualized training performance over time.
 - Evaluated the agent’s behavior via recorded gameplay.
 
 ---
